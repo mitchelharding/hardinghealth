@@ -10,15 +10,25 @@ p{
   font-family: sans-serif;
 
 }
+
 a{
   padding-left: 200px;
 }
+
 li{
   text-align: center;
   font-family: sans-serif;
   text-shadow: 2px 2px #F0F8FF;
 }
 
+p.intro{
+  padding: 10px 180px;
+  text-align: center;
+  width: 50%;
+  font-weight: lighter;
+  font-style: italic;
+  color: salmon;
+}
 
 img {
   height: 160px;
