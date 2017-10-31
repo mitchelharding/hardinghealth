@@ -10,6 +10,9 @@ p{
   font-family: sans-serif;
 
 }
+a:visited{
+  color: skyblue;
+}
 
 a{
   padding-left: 200px;
@@ -28,6 +31,23 @@ p.intro{
   font-weight: lighter;
   font-style: italic;
   color: salmon;
+}
+
+p.author{
+  width: 75%;
+  padding: 10px 90px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+
+p.important{
+  color:red;
+  font-weight: bold;
+}
+
+ol.important{
+  color: red;
+  font-weight: bold;
 }
 
 img {
