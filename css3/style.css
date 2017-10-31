@@ -1,0 +1,23 @@
+h1 {
+ font-weight: bold;
+ text-align: center;
+ text-shadow: 2px 2px #D3D3D3;
+}
+
+p{
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
+
+img {
+  height: 160px;
+  width: 240px;
+  border-width:10px;
+  border-color: #000000;
+  padding: 10px;
+  border-style: solid;
+
+}
